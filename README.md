@@ -4,7 +4,7 @@
 
 ## 中文
 
-传奇开发者、专业UX设计师、[gentoo-zh](https://gentoozh.org/) 第三代掌门人、dea 传人、最可爱的喵
+传奇开发者、专业UX设计师、[gentoo-zh](https://gentoozh.org/) 第三代掌门人、dea 传人、最可爱的喵~
 
 ### 技能
 
@@ -22,7 +22,7 @@
 
 ## English
 
-Legendary developer, professional UX designer, third-generation leader of [gentoo-zh](https://gentoozh.org/), heir of dea, and the cutest kitty.
+Legendary developer, professional UX designer, third-generation leader of [gentoo-zh](https://gentoozh.org/), heir of dea, and the cutest kitty~.
 
 ### Skills
 
